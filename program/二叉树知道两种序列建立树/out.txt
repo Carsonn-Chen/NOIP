@@ -1,0 +1,5 @@
+知道前序和中序输入1
+知道后序和中序输入2
+ABDEMCG
+DBEMACG
+DMEBGCA
